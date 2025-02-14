@@ -393,26 +393,3 @@ Almost every configuration value can be overrided dynamically by methods.
 ``` bash
 $ composer test
 ```
-
-## Security
-
-If you discover any security related issues, please email mysticcode@gmail.com instead of using the issue tracker.
-
-## Author
-
-- [David Lun][link-author]
-
-## License
-
-GPL-3.0-only. Please see the [license file](LICENSE.md) for more information.
-
-[ico-version]: https://img.shields.io/packagist/v/laraveldaily/laravel-invoices.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/laraveldaily/laravel-invoices.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/laraveldaily/laravel-invoices/master.svg?style=flat-square
-[ico-styleci]: https://styleci.io/repos/12345678/shield
-
-[link-packagist]: https://packagist.org/packages/laraveldaily/laravel-invoices
-[link-downloads]: https://packagist.org/packages/laraveldaily/laravel-invoices
-[link-travis]: https://travis-ci.org/laraveldaily/laravel-invoices
-[link-styleci]: https://styleci.io/repos/12345678
-[link-author]: https://github.com/mc0de
