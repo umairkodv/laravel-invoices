@@ -385,9 +385,3 @@ Almost every configuration value can be overrided dynamically by methods.
 - tax(float)
 - taxByPercent(float)
 - **subTotalPrice(float) - If not provided calculates itself**
-
-## Testing
-
-``` bash
-$ composer test
-```
