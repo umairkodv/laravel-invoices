@@ -1,4 +1,4 @@
-# Laravel Invoicesss
+# Laravel Invoicessss
 
 [![Latest Stable Version](https://poser.pugx.org/laraveldaily/laravel-invoices/v/stable?2)](https://packagist.org/packages/laraveldaily/laravel-invoices)
 [![Total Downloads](https://poser.pugx.org/laraveldaily/laravel-invoices/downloads?2)](https://packagist.org/packages/laraveldaily/laravel-invoices)
